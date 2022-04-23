@@ -13,3 +13,10 @@ body{
     margin: 10px;
     background-color:rgba(255, 255, 255, 0.7)
 }
+
+.image {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
