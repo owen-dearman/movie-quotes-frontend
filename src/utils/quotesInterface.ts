@@ -6,3 +6,11 @@ export interface quotesInterface {
     actorNAME: string,
     comment: string
   }
+
+export interface quoteObjectInterface {
+  quote: string,
+  movie: string,
+  character: string,
+  actor: string,
+  comment: string|null,
+}

@@ -1,0 +1,15 @@
+.ContentBlock {
+    display:block;
+    border: 10px solid #000000;
+    width:70%;
+    height: auto;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin: 75px auto;
+    border-radius: 50px;
+}
+
+body{
+    margin: 10px;
+    background-color:rgba(255, 255, 255, 0.7)
+}
